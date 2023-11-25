@@ -1,22 +1,20 @@
 <?php 
 $errors = '';
 $myemail = 'hi@giasolana.com';//<-----Put Your email address here.
-if(empty($_POST['name'])  || 
-   empty($_POST['message']))
+if(empty($_POST['message']))
 {
     $errors .= "\n Error: all fields are required";
 }
 
-$name = $_POST['name']; 
 $message = $_POST['message']; 
 
 
 if( empty($errors))
 {
 	$to = $myemail; 
-	$email_subject = "Contact form submission: $name";
+	$email_subject = "Contact form submission;
 	$email_body = "You have received a new message. ".
-	" Here are the details:\n Name: $name \n Message \n $message"; 
+	" Here are the details: Message \n $message"; 
 	
 	$headers = "From: $myemail\n";
 	
