@@ -58,7 +58,7 @@
        </div>
        <br></br>
            
-        <img src="="one">
+        <img src="https://twitter.com/giasolanabrown/photo"=one>
             Gia has a love for challenging things. She is working to master difficult subjects, such as physics; learn multiple languages, starting with Italian; improve her ballet technique, with code and computer vision; perfect her cello playing, so that others can enjoy; and craft some beautifully moving poetry. You can likely find her behind a computer screen or on an evening run. She's also sometimes on <a href="https://twitter.com/giasolanabrown">Twitter</a>. 
             <br></br>
 
